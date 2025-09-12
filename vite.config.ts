@@ -8,4 +8,5 @@ export default defineConfig({
     tailwindcss()
     
   ],
+  base: '/server-pagination-table/',
 })
